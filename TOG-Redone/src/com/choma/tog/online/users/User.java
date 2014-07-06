@@ -1,6 +1,6 @@
 package com.choma.tog.online.users;
 
-public class Users {
+public class User {
 
 	
 	private String username;

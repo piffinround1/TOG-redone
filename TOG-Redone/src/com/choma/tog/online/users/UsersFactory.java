@@ -2,7 +2,7 @@ package com.choma.tog.online.users;
 
 import java.util.List;
 
-public interface UsersFactory<T extends Users>{
+public interface UsersFactory<T extends User>{
 
 	
 	/*
